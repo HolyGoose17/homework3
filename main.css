@@ -60,3 +60,6 @@ background-color: rgba(23, 95, 58, 0.5);
 .box6{
 background-color: rgba(205, 52, 151, 0.751);
 }
+li{
+  list-style: none;
+}
